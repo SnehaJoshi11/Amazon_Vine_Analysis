@@ -16,3 +16,7 @@ Amazon Vine is an internal service of Amazon.com that allows manufacturers and p
 
 Here we need to pick one of the datasets and use PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. Next, we have to use PySpark, Pandas, or SQL to determine if there is any bias toward favorable reviews from Vine members in your dataset. Then, write a summary of the analysis to submit to the SellBy stakeholders.
 
+## Requirement
+- Perform ETL on Amazon Product Reviews
+- Determine Bias of Vine Reviews
+- A Written Report on the Analysis (README.md)
