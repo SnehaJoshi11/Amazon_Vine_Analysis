@@ -98,7 +98,14 @@ In the analysis 5-star reviews within conditions mentioned above. Calculations s
 
 **Additional analyses and suggestions**
 
-We could expand this analysis by calculating percentage for all-star’s reviews. Based on the results (Figure 4), there is a larger difference in percentage for 1-star reviews than for 5-stars reviews. Vine reviews have **11.47% of 1-star reviews**, while non-Vine reviews have **22.67 % 1-star reviews** within conditions mentioned above. Similarly, there is **9.84% 2-stars Vine reviews** and **5.85% 2-stars non-Vine reviews**.  
+- We could expand this analysis by calculating percentage for all-star’s reviews. 
+- Based on the results (Figure 4), there is a larger difference in percentage for 1-star reviews than for 5-stars reviews.
+- Vine reviews have **11.47% of 1-star reviews**, while non-Vine reviews have **22.67 % 1-star reviews** within conditions mentioned above.
+- But for 2,3,4 star reviews, we can identify that vine star reviews comparatively higher than non-vine reviews.
+  - **9.84% 2-stars Vine reviews** and **5.85% 2-stars non-Vine reviews**.  
+  - **18.03% 3-stars Vine reviews** and **6.83% 3-stars non-Vine reviews**.
+  - **27.83% 4- stars Vine reviews** and **9.19 4-stars non-Vine reviews**.
+
 <p align="center">
 <img src="Images/Allstars_Percentage_Review(vine-nonvine).png" width="70%" height="70%">
 </p>
@@ -107,12 +114,11 @@ We could expand this analysis by calculating percentage for all-star’s reviews
 <i>Figure 4: Summary table for all-star reviews.</i>
 </p>
 
-The results show that there could be positivity bias for reviews in the Vine program, as per the 1 and 2-star reviews perspective. 
+The results show that there could be positivity bias for reviews in the Vine program, as per the 2,3,4-star reviews perspective. 
 
 - In this case Vine reviews won’t affect the overall rating of the items.
 - On Amazon site for Vine reviews [https://www.amazon.com/gp/vine/help](https://www.amazon.com/gp/vine/help), It gives detailed information about it.
 - Also, it will be fair enough to perform analysis on items that are similar (in one group with Vine reviews and the other without) to measure sales profit over the period.
 - Based on that We can observe that this approach is beneficial to newly released items to increase their sales faster.
-
 
 
