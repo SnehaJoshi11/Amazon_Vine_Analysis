@@ -63,7 +63,7 @@ There were
 - **15689**  five stars **non-Vine** reviews.
 
 <p align="center">
-<img src="Images/5stars_Reviews(vine-nonvine).png" width="50%" height="50%">
+<img src="Images/5Star_Reviews(vine-nonvine).png" width="50%" height="50%">
 </p>
 
 <p align="center">
@@ -76,7 +76,7 @@ There were
 - **55.46 %** of **non-Vine** reviews were 5 stars.
 
 <p align="center">
-<img src="Images/5Star_Review_Percentage(vine-nonvine).PNG" width="50%" height="50%">
+<img src="Images/5Star_Review_Percentage(vine-nonvine).png" width="50%" height="50%">
 </p>
 
 <p align="center">
@@ -96,7 +96,7 @@ In the analysis 5-star reviews within conditions mentioned above. Calculations s
 
 We could expand this analysis by calculating percentage for all-star’s reviews. Based on the results (Figure 4), there is a larger difference in percentage for 1-star reviews than for 5-stars reviews. Vine reviews have **11.47% of 1-star reviews**, while non-Vine reviews have **22.67 % 1-star reviews** within conditions mentioned above. Similarly, there is **9.84% 2-stars Vine reviews** and **5.85% 2-stars non-Vine reviews**.  
 <p align="center">
-<img src="Images/Allstar_Percentage_Reviews(vine-nonvine).png" width="70%" height="70%">
+<img src="Images/Allstars_Percentage_Review(vine-nonvine).png" width="70%" height="70%">
 </p>
 
 <p align="center">
