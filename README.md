@@ -4,6 +4,11 @@
 
 To Analyze Amazon reviews written by members of the paid Amazon Vine program. In this project, we will have access to approximately 50 datasets. Each one contains reviews of a specific product, from clothing apparel to wireless products.
 
+
+## Purpose
+
+In this project we need to pick one of the datasets from [Amazon reviews](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt) and use PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. Next, we must use PySpark, Pandas, or SQL to determine if there is any bias toward favorable reviews from Vine members in your dataset. Then, write a summary of the analysis to submit to the SellBy stakeholders.
+
 ## Background - Amazon Vine
 
 
@@ -13,9 +18,7 @@ To Analyze Amazon reviews written by members of the paid Amazon Vine program. In
 - Books Reception for the program has been mixed with some people criticizing the program's use of non-professional reviewers while others cited this as a benefit.
 - The Vine program operates independently on Amazon.com, Amazon.co.uk,Amazon.fr, Amazon.de, Amazon.ca, and Amazon.es. [Source: Wikipedia](https://en.wikipedia.org/wiki/Amazon_Vine) 
 
-## Purpose
 
-In this project we need to pick one of the datasets from [Amazon reviews](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt) and use PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. Next, we must use PySpark, Pandas, or SQL to determine if there is any bias toward favorable reviews from Vine members in your dataset. Then, write a summary of the analysis to submit to the SellBy stakeholders.
 
 ## Requirement
 - Perform ETL on Amazon Product Reviews
